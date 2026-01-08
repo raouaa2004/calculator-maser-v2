@@ -49,7 +49,7 @@ const GradeCalculator = () => {
       { name: 'Méthodes pour l’intelligence artificielle', ects: 2, coef: 2, hasTP: true, hasTD: false },
       { name: 'Traitement de signal', ects: 2, coef: 2, hasTP: false, hasTD: true },
       { name: 'Anglais scientifique 1', ects: 2, coef: 2, hasTP: false, hasTD: false },
-      { name: 'Ethics and deontology', ects: 2, coef: 2, hasTP: false, hasTD: false }
+      { name: 'Ethics and deontology', ects: 2, coef: 2, hasTP: false, hasTD: false },
   
     { name: 'Gestion des projets', ects: 2, coef: 2, hasTP: false, hasTD: false }
       ],
