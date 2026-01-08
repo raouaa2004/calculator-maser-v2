@@ -22,7 +22,8 @@ const GradeCalculator = () => {
       { name: 'Aide à la décision', ects: 2, coef: 2, hasTP: true, hasTD: false },
       { name: 'Sécurité informatique', ects: 2, coef: 2, hasTP: true, hasTD: false },
       { name: 'Sécurité des algorithmes distribués', ects: 2, coef: 2, hasTP: false, hasTD: true },
-      { name: 'Anglais scientifique 1', ects: 2, coef: 2, hasTP: false, hasTD: false },
+      { name: 'Anglais scientifique 1', ects: 1, coef: 1
+        , hasTP: false, hasTD: false },
       { name: 'Ethics and deontology', ects: 2, coef: 2, hasTP: false, hasTD: false }
     ],
     'SI-S1': [
@@ -183,7 +184,7 @@ const GradeCalculator = () => {
                 <span style={{wordBreak: 'break-word'}}>Calculateur de Moyenne Master</span>
               </h1>
               <p style={{fontSize: 'clamp(11px, 2.5vw, 14px)', margin: 0, opacity: 0.9}}>
-                Université Echahid Cheikh Larbi Tebessi
+                Departement de L'informatique TEBESSA
               </p>
             </div>
           </div>
